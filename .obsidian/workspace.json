@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "44e7806912d9d303",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc80fdabd6c81a54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abea30b01ba24ec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3 - Payment Systems.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "64338fbdaf7ce399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 1 - Introduction to E-Commerce.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48bc3b1a81666cb2",
+            "type": "leaf",
+            "state": {
+              "type": "notion-like-tables",
+              "state": {
+                "file": "TandEDiff.table"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3986a464b56cf986",
+    "type": "split",
+    "children": [
+      {
+        "id": "77ced258ba831a28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6598b7b3e0ebad0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9f41bcb703d564f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f635b31295b08a9e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ca054936cc6e839c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5310c33a2cb92bbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e97f2b0797261a3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31c8adae3831e603",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter 1 - Introduction to E-Commerce.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9d50431c2939c8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b02e87014705d161",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter 1 - Introduction to E-Commerce.md"
+              }
+            }
+          },
+          {
+            "id": "3d970f08f21d0f76",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "notion-like-tables:Create Notion-Like table": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "64338fbdaf7ce399",
+  "lastOpenFiles": [
+    "What is E-Commerce.md",
+    "TandEDiff.table",
+    "Chapter 1 - Introduction to E-Commerce.md",
+    "Chapter 3 - Payment Systems.md",
+    "Pasted image 20230224210504.png"
+  ]
+}

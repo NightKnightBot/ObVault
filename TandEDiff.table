@@ -1,0 +1,258 @@
+{
+  "model": {
+    "rows": [
+      {
+        "id": "9cce3910-8d7c-4d6f-b3c6-076f2e0a9d52",
+        "menuCellId": "346693fb-282e-48dc-ab16-43cf87ed55d4",
+        "creationTime": 1680933834600,
+        "lastEditedTime": 1680933879191
+      },
+      {
+        "id": "fa6b98bc-54a8-4893-ba27-9e60d934fd6e",
+        "menuCellId": "5b2d7892-0313-482b-8624-54464ae54686",
+        "creationTime": 1680933834600,
+        "lastEditedTime": 1680933917147
+      },
+      {
+        "id": "053d3956-7aef-400c-8b2a-d9176f489bc9",
+        "menuCellId": "0c107a08-5c00-4f91-8219-d80568f16e51",
+        "creationTime": 1680933919547,
+        "lastEditedTime": 1680933954379
+      },
+      {
+        "id": "2c7c31b6-7e53-4396-aff8-461a55a785ce",
+        "menuCellId": "3b65fcfd-c7d9-4c6b-9c21-d7e2b5fdc839",
+        "creationTime": 1680933956435,
+        "lastEditedTime": 1680933983697
+      },
+      {
+        "id": "4de532bf-166d-4b3f-866e-f93841b8efdb",
+        "menuCellId": "f3c6f55b-1a8b-4e41-b2be-ad48e5e0111e",
+        "creationTime": 1680933985412,
+        "lastEditedTime": 1680934022187
+      },
+      {
+        "id": "e73a9a49-04fe-46c2-86b1-04f551608e6c",
+        "menuCellId": "01ee6340-8ece-43c2-b2d6-f7df23eba20b",
+        "creationTime": 1680934023949,
+        "lastEditedTime": 1680934052744
+      },
+      {
+        "id": "5867c3cf-854f-4d33-aec5-8c5fb6def750",
+        "menuCellId": "f627ab67-c53f-48ee-9ae9-74d705e5aa7a",
+        "creationTime": 1680934086647,
+        "lastEditedTime": 1680934118553
+      },
+      {
+        "id": "a007cf97-8e01-4f78-854b-06c97a2df2d1",
+        "menuCellId": "1cb34427-050d-45f1-895a-01ccc701742d",
+        "creationTime": 1680934120207,
+        "lastEditedTime": 1680934147778
+      }
+    ],
+    "columns": [
+      {
+        "id": "ab0932e3-472f-4a74-9587-1983da32a45e",
+        "sortDir": "default",
+        "width": "229px",
+        "type": "text",
+        "currencyType": "USD",
+        "hasAutoWidth": false,
+        "shouldWrapOverflow": false,
+        "footerCellId": "746531ac-f58a-4b6d-9ae2-dbb8ec7b943e"
+      },
+      {
+        "id": "a5578f00-8842-4e7f-bfbf-af297e44c3ac",
+        "sortDir": "default",
+        "width": "203px",
+        "type": "text",
+        "currencyType": "USD",
+        "hasAutoWidth": false,
+        "shouldWrapOverflow": false,
+        "footerCellId": "34810aa3-2c0d-40fc-bee8-42261956f02b"
+      },
+      {
+        "id": "92089b57-b9fb-41f5-b391-713cd0e3d0f6",
+        "sortDir": "default",
+        "width": "242px",
+        "type": "text",
+        "currencyType": "USD",
+        "hasAutoWidth": false,
+        "shouldWrapOverflow": false,
+        "footerCellId": "cbec0633-3896-424e-88b4-632366ce7025"
+      }
+    ],
+    "cells": [
+      {
+        "id": "922e69d2-f991-456a-96ad-7f9afc628dc1",
+        "columnId": "ab0932e3-472f-4a74-9587-1983da32a45e",
+        "rowId": "9cce3910-8d7c-4d6f-b3c6-076f2e0a9d52",
+        "markdown": "Basis",
+        "isHeader": true
+      },
+      {
+        "id": "de6136c0-66bc-4437-a021-cbaa2ac3ac34",
+        "columnId": "a5578f00-8842-4e7f-bfbf-af297e44c3ac",
+        "rowId": "9cce3910-8d7c-4d6f-b3c6-076f2e0a9d52",
+        "markdown": "Traditional Commerce",
+        "isHeader": true
+      },
+      {
+        "id": "3f033c39-46c9-4f50-87cf-bf4410963e90",
+        "columnId": "92089b57-b9fb-41f5-b391-713cd0e3d0f6",
+        "rowId": "9cce3910-8d7c-4d6f-b3c6-076f2e0a9d52",
+        "markdown": "Electronic Commerce",
+        "isHeader": true
+      },
+      {
+        "id": "a10d17cc-49d8-4520-a4df-56340d2f9a4b",
+        "columnId": "ab0932e3-472f-4a74-9587-1983da32a45e",
+        "rowId": "fa6b98bc-54a8-4893-ba27-9e60d934fd6e",
+        "markdown": "Processing of Transaction",
+        "isHeader": false
+      },
+      {
+        "id": "48632c43-0068-4a6d-bf0c-1dcc5b1ebfa9",
+        "columnId": "a5578f00-8842-4e7f-bfbf-af297e44c3ac",
+        "rowId": "fa6b98bc-54a8-4893-ba27-9e60d934fd6e",
+        "markdown": "Manual",
+        "isHeader": false
+      },
+      {
+        "id": "9b668365-51ee-403b-9a90-71fc3276aacf",
+        "columnId": "92089b57-b9fb-41f5-b391-713cd0e3d0f6",
+        "rowId": "fa6b98bc-54a8-4893-ba27-9e60d934fd6e",
+        "markdown": "Automatic",
+        "isHeader": false
+      },
+      {
+        "id": "4340aa35-f30b-43c2-81ef-fa13e25db7e0",
+        "columnId": "ab0932e3-472f-4a74-9587-1983da32a45e",
+        "rowId": "053d3956-7aef-400c-8b2a-d9176f489bc9",
+        "markdown": "Accessibility",
+        "isHeader": false
+      },
+      {
+        "id": "d2b44b8a-6615-4eae-8f93-91f1cc19d301",
+        "columnId": "a5578f00-8842-4e7f-bfbf-af297e44c3ac",
+        "rowId": "053d3956-7aef-400c-8b2a-d9176f489bc9",
+        "markdown": "Limited Time",
+        "isHeader": false
+      },
+      {
+        "id": "53708ace-a216-4ffc-8855-809c7d3f6882",
+        "columnId": "92089b57-b9fb-41f5-b391-713cd0e3d0f6",
+        "rowId": "053d3956-7aef-400c-8b2a-d9176f489bc9",
+        "markdown": "24x7x365",
+        "isHeader": false
+      },
+      {
+        "id": "984869c8-5ede-4a27-a95e-5d3e9a0b5450",
+        "columnId": "ab0932e3-472f-4a74-9587-1983da32a45e",
+        "rowId": "2c7c31b6-7e53-4396-aff8-461a55a785ce",
+        "markdown": "Inspection",
+        "isHeader": false
+      },
+      {
+        "id": "5f37b262-389e-4700-b636-0a3059c6c98d",
+        "columnId": "a5578f00-8842-4e7f-bfbf-af297e44c3ac",
+        "rowId": "2c7c31b6-7e53-4396-aff8-461a55a785ce",
+        "markdown": "Goods Can Be Inspected",
+        "isHeader": false
+      },
+      {
+        "id": "d7d6cfda-c30f-4e06-8962-951b9a46b156",
+        "columnId": "92089b57-b9fb-41f5-b391-713cd0e3d0f6",
+        "rowId": "2c7c31b6-7e53-4396-aff8-461a55a785ce",
+        "markdown": "Goods Cannot be Inspected",
+        "isHeader": false
+      },
+      {
+        "id": "8de1b924-4b05-4675-bd5d-6542dffc8f35",
+        "columnId": "ab0932e3-472f-4a74-9587-1983da32a45e",
+        "rowId": "4de532bf-166d-4b3f-866e-f93841b8efdb",
+        "markdown": "Scope Of Business",
+        "isHeader": false
+      },
+      {
+        "id": "1d650c17-f5c6-4a81-9a33-1b73eca2ab85",
+        "columnId": "a5578f00-8842-4e7f-bfbf-af297e44c3ac",
+        "rowId": "4de532bf-166d-4b3f-866e-f93841b8efdb",
+        "markdown": "Limited to Area",
+        "isHeader": false
+      },
+      {
+        "id": "20ec4ab7-56ed-48ac-87ff-5fec38e61751",
+        "columnId": "92089b57-b9fb-41f5-b391-713cd0e3d0f6",
+        "rowId": "4de532bf-166d-4b3f-866e-f93841b8efdb",
+        "markdown": "World Wide Reach",
+        "isHeader": false
+      },
+      {
+        "id": "a0def291-eeb8-4ae6-b14f-10d9412ad5ca",
+        "columnId": "ab0932e3-472f-4a74-9587-1983da32a45e",
+        "rowId": "e73a9a49-04fe-46c2-86b1-04f551608e6c",
+        "markdown": "Business Relationship",
+        "isHeader": false
+      },
+      {
+        "id": "84a40f75-a05c-4ff6-b349-8dd69753122a",
+        "columnId": "a5578f00-8842-4e7f-bfbf-af297e44c3ac",
+        "rowId": "e73a9a49-04fe-46c2-86b1-04f551608e6c",
+        "markdown": "Linear",
+        "isHeader": false
+      },
+      {
+        "id": "b2a91258-0063-47f1-9886-105c2471e91a",
+        "columnId": "92089b57-b9fb-41f5-b391-713cd0e3d0f6",
+        "rowId": "e73a9a49-04fe-46c2-86b1-04f551608e6c",
+        "markdown": "End-To-End",
+        "isHeader": false
+      },
+      {
+        "id": "94539bd0-31cb-45c1-b3b6-f24b1f89d8fd",
+        "columnId": "ab0932e3-472f-4a74-9587-1983da32a45e",
+        "rowId": "5867c3cf-854f-4d33-aec5-8c5fb6def750",
+        "markdown": "Payment",
+        "isHeader": false
+      },
+      {
+        "id": "bb92fc98-3a2e-4a41-9682-596dcdb99c75",
+        "columnId": "a5578f00-8842-4e7f-bfbf-af297e44c3ac",
+        "rowId": "5867c3cf-854f-4d33-aec5-8c5fb6def750",
+        "markdown": "Cash, Card, Check",
+        "isHeader": false
+      },
+      {
+        "id": "188b40fb-362f-42c0-89a9-763c09acf39c",
+        "columnId": "92089b57-b9fb-41f5-b391-713cd0e3d0f6",
+        "rowId": "5867c3cf-854f-4d33-aec5-8c5fb6def750",
+        "markdown": "Card, Funds Transfer",
+        "isHeader": false
+      },
+      {
+        "id": "3af9abbf-591b-41bc-bf2c-f5897996969f",
+        "columnId": "ab0932e3-472f-4a74-9587-1983da32a45e",
+        "rowId": "a007cf97-8e01-4f78-854b-06c97a2df2d1",
+        "markdown": "Delivery Time",
+        "isHeader": false
+      },
+      {
+        "id": "665d7b1f-110f-40d1-a2d2-d28fa73e7986",
+        "columnId": "a5578f00-8842-4e7f-bfbf-af297e44c3ac",
+        "rowId": "a007cf97-8e01-4f78-854b-06c97a2df2d1",
+        "markdown": "Instant",
+        "isHeader": false
+      },
+      {
+        "id": "2585f96c-c282-450b-a143-8895d82328fc",
+        "columnId": "92089b57-b9fb-41f5-b391-713cd0e3d0f6",
+        "rowId": "a007cf97-8e01-4f78-854b-06c97a2df2d1",
+        "markdown": "Takes Time",
+        "isHeader": false
+      }
+    ],
+    "tags": []
+  },
+  "pluginVersion": 610
+}

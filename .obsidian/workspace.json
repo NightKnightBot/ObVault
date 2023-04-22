@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6d181b60bab9dcf0",
+        "id": "b51ffbd148e49489",
         "type": "tabs",
         "children": [
           {
-            "id": "77716d01720fb69d",
+            "id": "a86233bf8e6a2f85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Issues.md",
+                "file": "The Six Factors for Success.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Issues.md",
+                "file": "The Six Factors for Success.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Issues.md"
+                "file": "The Six Factors for Success.md"
               }
             }
           },
@@ -169,32 +169,42 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "77716d01720fb69d",
+  "active": "a86233bf8e6a2f85",
   "lastOpenFiles": [
-    "Social Issues.md",
-    "Ethical Issues.md",
-    "Terrorism and Warfare.md",
-    "Online Crimes.md",
-    "Untitled.canvas",
-    "Chapter 2 - Legal and Ethical Issues.md",
-    "Legal Issues.md",
-    "Protection of Intellectual Property in Online Business.md",
-    "Chapter 1 - Introduction to E-Commerce.md",
-    "What is E-Commerce.md",
-    "Contracting and Contract Enforcement.md",
-    "math test.md",
-    "Borders and Jurisdiction.md",
-    "Pasted image 20230421123519.png",
+    "Embrace outsourcing.md",
+    "The Six Factors for Success.md",
+    "Chapter 8 - Critical Success Strategies.md",
+    "E-Business Strategy Process.md",
+    "Create a strategy centred on the consumer.md",
+    "Chapter 7 - E-Business.md",
+    "Challenges and Requirements of E-Businesses.md",
+    "Requirements of E-Business.md",
+    "Process of E-Business.md",
+    "Characteristics of E-Business.md",
+    "What is E-Business.md",
+    "Difference between E-Commerce and E-Business.md",
     "Exception Handeling.md",
-    "Java Fundamentals.md",
-    "Inheritance in Java.md",
+    "Basic Commerce Service.md",
+    "Chapter 6 - E-Commerce Software.md",
+    "E-Commerce Software.md",
+    "Untitled 1.md",
+    "SOAP, UDDL, WDSL.md",
+    "Web service.md",
+    "internal connection.md",
+    "Middle-ware.md",
+    "Transaction Processing.md",
+    "Catalogue Display.md",
+    "Shopping Cart.md",
+    "Chapter 5 - M Commerce.md",
+    "Social Issues.md",
+    "Untitled.canvas",
+    "Pasted image 20230421123519.png",
     "Pasted image 20230417232442.png",
     "Pasted image 20230417230336.png",
     "Pasted image 20230417223927.png",
     "Pasted image 20230415122727.png",
     "Pasted image 20230415122356.png",
     "TandEDiff.table",
-    "Chapter 3 - Payment Systems.md",
     "Pasted image 20230224210504.png"
   ]
 }

@@ -11,8 +11,26 @@
             "id": "a86233bf8e6a2f85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Act like a new entrant.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "10982f5c5396f1a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Six Factors for Success.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "foe",
+                "query": "chapter 8",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Act like a new entrant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Act like a new entrant.md"
+              }
             }
           },
           {
@@ -164,31 +186,31 @@
   "active": "a86233bf8e6a2f85",
   "lastOpenFiles": [
     "The Six Factors for Success.md",
+    "Create a strategy centred on the consumer.md",
+    "Act like a new entrant.md",
     "Embrace outsourcing.md",
     "Chapter 8 - Critical Success Strategies.md",
-    "E-Business Strategy Process.md",
-    "Create a strategy centred on the consumer.md",
+    "Chapter 4 - E Commerce strategies.md",
     "Chapter 7 - E-Business.md",
-    "Challenges and Requirements of E-Businesses.md",
-    "Requirements of E-Business.md",
-    "Process of E-Business.md",
-    "Characteristics of E-Business.md",
-    "What is E-Business.md",
-    "Difference between E-Commerce and E-Business.md",
-    "Exception Handeling.md",
-    "Basic Commerce Service.md",
     "Chapter 6 - E-Commerce Software.md",
     "E-Commerce Software.md",
-    "Untitled 1.md",
-    "SOAP, UDDL, WDSL.md",
-    "Web service.md",
-    "internal connection.md",
-    "Middle-ware.md",
-    "Transaction Processing.md",
-    "Catalogue Display.md",
     "Shopping Cart.md",
-    "Chapter 5 - M Commerce.md",
-    "Social Issues.md",
+    "What is E-Business.md",
+    "Web service.md",
+    "Transaction Processing.md",
+    "SOAP, UDDL, WDSL.md",
+    "Requirements of E-Business.md",
+    "README.md",
+    "Process of E-Business.md",
+    "Middle-ware.md",
+    "E-Business Strategy Process.md",
+    "Difference between E-Commerce and E-Business.md",
+    "Characteristics of E-Business.md",
+    "Challenges and Requirements of E-Businesses.md",
+    "Catalogue Display.md",
+    "Basic Commerce Service.md",
+    "Exception Handeling.md",
+    "Untitled 1.md",
     "Untitled.canvas",
     "Pasted image 20230421123519.png",
     "Pasted image 20230417232442.png",

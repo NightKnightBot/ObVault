@@ -1,4 +1,4 @@
-$$\frac{{dN}}{{dt}} =  - \lambda N$$
+
 [[Chapter 5 - M Commerce]]
 
 The M Commerce trends are:

@@ -28,7 +28,7 @@ There are 3 types of patents
 ### Trademark Infringement
 ***It is a distinctive mark, device, motto, or implementation that a company affixes to the goods it produces of identification purposes.***
 
-***Trademark Infringement** is the unauthorised use of a **trademark or service mark** on competing or related goods*
+*​**Trademark Infringement** is the unauthorised use of a **trademark or service mark** on competing or related goods*
 
 ### Cyber-squatting and Name Stealing
 1. ***Cyber-squatting*** is the practice of registering a domain name that is trademark of another entity in the hopes that the owner will pay huge amounts of money.

@@ -4,7 +4,7 @@
 Any contract includes 3 essential elements
 1. *An **Offer** is commitment with certain terms made to another party.*
 2. *An **Acceptance** is a willingness to take the offer.*
-3. ***Consideration** is the agreed upon exchange of something valuable.*
+3. *​**Consideration** is the agreed upon exchange of something valuable.*
 
 **An implied contract can be formed between 2 or more parties that act as if a contract exists, even if no contract have been written or signed**
 

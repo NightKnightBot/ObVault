@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 8 - Critical Success Strategies.md",
-                "mode": "source",
+                "file": "Protection of Intellectual Property in Online Business.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chapter 8",
+                "query": "tag:#foe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 8 - Critical Success Strategies.md",
+                "file": "Protection of Intellectual Property in Online Business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 8 - Critical Success Strategies.md"
+                "file": "Protection of Intellectual Property in Online Business.md"
               }
             }
           },
@@ -172,8 +172,14 @@
   },
   "active": "4ead894cf69278fc",
   "lastOpenFiles": [
-    "Examples of Strategies.md",
+    "Legal Issues.md",
+    "Contracting and Contract Enforcement.md",
+    "Borders and Jurisdiction.md",
+    "Chapter 2 - Legal and Ethical Issues.md",
+    "Chapter 1 - Introduction to E-Commerce.md",
+    "What is E-Commerce.md",
     "Chapter 8 - Critical Success Strategies.md",
+    "Examples of Strategies.md",
     "E-Business Strategy Process.md",
     "The Six Factors for Success.md",
     "Executive leadership is essential.md",
@@ -192,12 +198,6 @@
     "Transaction Processing.md",
     "SOAP, UDDL, WDSL.md",
     "Requirements of E-Business.md",
-    "README.md",
-    "Process of E-Business.md",
-    "Middle-ware.md",
-    "Difference between E-Commerce and E-Business.md",
-    "Characteristics of E-Business.md",
-    "Challenges and Requirements of E-Businesses.md",
     "Untitled.canvas",
     "Pasted image 20230421123519.png",
     "Pasted image 20230417232442.png",
